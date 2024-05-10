@@ -156,7 +156,11 @@ np.mean(predict(res.x,X)==y)
 
 ### Print res.X:
 
+
+
 ![image](https://github.com/ATHMAJ03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118753139/d7172004-c9f4-44c6-ac55-a29f6eb53f16)
+
+
 
 
 
