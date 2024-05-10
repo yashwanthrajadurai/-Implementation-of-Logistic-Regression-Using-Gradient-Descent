@@ -158,6 +158,10 @@ np.mean(predict(res.x,X)==y)
 
 ![image](https://github.com/ATHMAJ03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118753139/d7172004-c9f4-44c6-ac55-a29f6eb53f16)
 
+
+
+
+
 ### Decision boundary-gragh for exam score:
 
 ![image](https://github.com/ATHMAJ03/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/118753139/dcccd452-63a8-40d5-9a74-649521cd1541)
